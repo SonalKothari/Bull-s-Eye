@@ -12,6 +12,17 @@
 		4A16A6F11C65BA6E00F07CE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6EF1C65BA6E00F07CE9 /* Main.storyboard */; };
 		4A16A6F31C65BA6E00F07CE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6F21C65BA6E00F07CE9 /* Assets.xcassets */; };
 		4A16A6F61C65BA6E00F07CE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6F41C65BA6E00F07CE9 /* LaunchScreen.storyboard */; };
+		4A16A7081C660EA100F07CE9 /* Background-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6FD1C660EA100F07CE9 /* Background-568h@2x.png */; };
+		4A16A7091C660EA100F07CE9 /* Background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6FE1C660EA100F07CE9 /* Background@2x.png */; };
+		4A16A70A1C660EA100F07CE9 /* Button-Highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A6FF1C660EA100F07CE9 /* Button-Highlighted@2x.png */; };
+		4A16A70B1C660EA100F07CE9 /* Button-Normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7001C660EA100F07CE9 /* Button-Normal@2x.png */; };
+		4A16A70C1C660EA100F07CE9 /* InfoButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7011C660EA100F07CE9 /* InfoButton@2x.png */; };
+		4A16A70D1C660EA100F07CE9 /* SliderThumb-Highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7021C660EA100F07CE9 /* SliderThumb-Highlighted@2x.png */; };
+		4A16A70E1C660EA100F07CE9 /* SliderThumb-Normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7031C660EA100F07CE9 /* SliderThumb-Normal@2x.png */; };
+		4A16A70F1C660EA100F07CE9 /* SliderTrackLeft@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7041C660EA100F07CE9 /* SliderTrackLeft@2x.png */; };
+		4A16A7101C660EA100F07CE9 /* SliderTrackRight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7051C660EA100F07CE9 /* SliderTrackRight@2x.png */; };
+		4A16A7111C660EA100F07CE9 /* SmallButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7061C660EA100F07CE9 /* SmallButton@2x.png */; };
+		4A16A7121C660EA100F07CE9 /* StartOverIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A16A7071C660EA100F07CE9 /* StartOverIcon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		4A16A6F21C65BA6E00F07CE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A16A6F51C65BA6E00F07CE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A16A6F71C65BA6E00F07CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A16A6FD1C660EA100F07CE9 /* Background-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background-568h@2x.png"; sourceTree = "<group>"; };
+		4A16A6FE1C660EA100F07CE9 /* Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@2x.png"; sourceTree = "<group>"; };
+		4A16A6FF1C660EA100F07CE9 /* Button-Highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Highlighted@2x.png"; sourceTree = "<group>"; };
+		4A16A7001C660EA100F07CE9 /* Button-Normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Normal@2x.png"; sourceTree = "<group>"; };
+		4A16A7011C660EA100F07CE9 /* InfoButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoButton@2x.png"; sourceTree = "<group>"; };
+		4A16A7021C660EA100F07CE9 /* SliderThumb-Highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Highlighted@2x.png"; sourceTree = "<group>"; };
+		4A16A7031C660EA100F07CE9 /* SliderThumb-Normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Normal@2x.png"; sourceTree = "<group>"; };
+		4A16A7041C660EA100F07CE9 /* SliderTrackLeft@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderTrackLeft@2x.png"; sourceTree = "<group>"; };
+		4A16A7051C660EA100F07CE9 /* SliderTrackRight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderTrackRight@2x.png"; sourceTree = "<group>"; };
+		4A16A7061C660EA100F07CE9 /* SmallButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SmallButton@2x.png"; sourceTree = "<group>"; };
+		4A16A7071C660EA100F07CE9 /* StartOverIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "StartOverIcon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +81,17 @@
 				4A16A6EF1C65BA6E00F07CE9 /* Main.storyboard */,
 				4A16A6F21C65BA6E00F07CE9 /* Assets.xcassets */,
 				4A16A6F41C65BA6E00F07CE9 /* LaunchScreen.storyboard */,
+				4A16A6FD1C660EA100F07CE9 /* Background-568h@2x.png */,
+				4A16A6FE1C660EA100F07CE9 /* Background@2x.png */,
+				4A16A6FF1C660EA100F07CE9 /* Button-Highlighted@2x.png */,
+				4A16A7001C660EA100F07CE9 /* Button-Normal@2x.png */,
+				4A16A7011C660EA100F07CE9 /* InfoButton@2x.png */,
+				4A16A7021C660EA100F07CE9 /* SliderThumb-Highlighted@2x.png */,
+				4A16A7031C660EA100F07CE9 /* SliderThumb-Normal@2x.png */,
+				4A16A7041C660EA100F07CE9 /* SliderTrackLeft@2x.png */,
+				4A16A7051C660EA100F07CE9 /* SliderTrackRight@2x.png */,
+				4A16A7061C660EA100F07CE9 /* SmallButton@2x.png */,
+				4A16A7071C660EA100F07CE9 /* StartOverIcon@2x.png */,
 				4A16A6F71C65BA6E00F07CE9 /* Info.plist */,
 			);
 			path = "Bull's Eye";
@@ -123,8 +156,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A16A6F61C65BA6E00F07CE9 /* LaunchScreen.storyboard in Resources */,
+				4A16A70F1C660EA100F07CE9 /* SliderTrackLeft@2x.png in Resources */,
+				4A16A7121C660EA100F07CE9 /* StartOverIcon@2x.png in Resources */,
 				4A16A6F31C65BA6E00F07CE9 /* Assets.xcassets in Resources */,
+				4A16A70B1C660EA100F07CE9 /* Button-Normal@2x.png in Resources */,
+				4A16A7111C660EA100F07CE9 /* SmallButton@2x.png in Resources */,
 				4A16A6F11C65BA6E00F07CE9 /* Main.storyboard in Resources */,
+				4A16A70D1C660EA100F07CE9 /* SliderThumb-Highlighted@2x.png in Resources */,
+				4A16A7091C660EA100F07CE9 /* Background@2x.png in Resources */,
+				4A16A70A1C660EA100F07CE9 /* Button-Highlighted@2x.png in Resources */,
+				4A16A70C1C660EA100F07CE9 /* InfoButton@2x.png in Resources */,
+				4A16A7081C660EA100F07CE9 /* Background-568h@2x.png in Resources */,
+				4A16A7101C660EA100F07CE9 /* SliderTrackRight@2x.png in Resources */,
+				4A16A70E1C660EA100F07CE9 /* SliderThumb-Normal@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
